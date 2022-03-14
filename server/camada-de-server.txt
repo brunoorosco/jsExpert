@@ -1,0 +1,8 @@
+server
+    service = tudp que é regra de negocio ou processamento
+    controller = intermediar a cmada de apresentação e a camada de negocio 
+    routers = camada de apresentação
+    server = responsavel por criar o servidor(mas não instacial)
+    index = instancia o servidor e expoe para a web(lado da infraestrutura)
+    config = tudo o que for estáticco do projeto
+    
